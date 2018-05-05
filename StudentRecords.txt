@@ -1,0 +1,79 @@
+10 579
+Usaman Mehmood 890338 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 A
+History HTS356 3 A
+.
+.
+.
+Shehr Yar 890530 Y 4
+English HMM348 3 A
+Physics PHY357 3 B
+History HTS356 3 A
+Mathematcis MTH345 4 A
+.
+.
+.
+Samar Fatima Rashid 890438 Y 5
+Mathematics MTH345 4 D
+Physics PHY357 3 W
+History HTS356 3 C
+ComputerSci CSC478 3 F
+English HMM348 3 D
+.
+.
+.
+Saim Ul Hassan 890680 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 A
+History HTS356 3 A
+ComputerSci CSC478 3 A
+.
+.
+.
+Talha Rashid 890555 Y 3
+Mathematics MTH345 4 A
+Physics PHY357 3 A
+ComputerSci CSC478 3 B
+.
+.
+.
+Shahwaiz Khalid 890830 N 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 B
+English HMM348 3 B
+.
+.
+.
+Shoaib Khan 890678 N 5
+Mathematics MTH345 4 B
+Physics PHY357 3 C
+History HTS356 3 B
+ComputerSci CSC478 3 B
+English HMM348 3 A
+.
+.
+.
+Kainat Ishfaq 890742 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 A
+English HMM348 3 A
+.
+.
+.
+Ayesha Khan 890521 Y 3
+Physics PHY357 3 B
+History HTS356 3 A
+English HMM348 3 A
+.
+.
+.
+Sameer Khan 890741 Y 5
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 B
+ComputerSci CSC478 3 B
+English HMM348 3 A
