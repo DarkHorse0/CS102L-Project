@@ -3,17 +3,17 @@
 
 using namespace std;
 
-class Course{
+class Course {
 	string name;
 	string no;
 	int creditHours;
 	char grade;
-	
+
 public:
 	friend class Student;
 };
 
-class Student{
+class Student {
 	string name;
 	int studentID;
 	bool isTuitionPaid;
@@ -40,7 +40,7 @@ public:
 	{
 		ofstream ofile("StudentRecords.txt");
 		ofile << name << " " << studentID << " " << isTuitionPaid << " " << numberOfCourses << endl;
-		
+
 		for (int i = 0; i < numberOfCourses; i++)
 		{
 			ofile << courses[i].name << " " << courses[i].no << " " << courses[i].creditHours << " " << courses[i].grade << endl;
@@ -54,6 +54,6 @@ int main()
 	int noOfStudents;
 	double tuitionRate;
 	record >> noOfStudents >> tuitionRate;
-	cout<<noOfStudents;
+	cout << noOfStudents;
 	return 0;
 }
