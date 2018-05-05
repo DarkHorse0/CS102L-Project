@@ -22,7 +22,7 @@ class Student{
 
 public:
 	Student() {}
-	Student(string n, int sID, bool iTP, int nOC)
+	Student()
 	{
 		name = n;
 		studentID = sID;
@@ -50,6 +50,10 @@ public:
 
 int main()
 {
-	cout<<"Changed";
+	ifstream record("StudentRecords.txt");
+	int noOfStudents;
+	double tuitionRate;
+	record >> noOfStudents >> tuitionRate;
+	cout<<noOfStudents;
 	return 0;
 }
