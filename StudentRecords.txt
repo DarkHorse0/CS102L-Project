@@ -1,0 +1,79 @@
+10 579
+UsamanMehmood 890338 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerScience CSC478 3 A
+History HTS356 3 A
+.
+.
+.
+ShehrYar 890530 Y 4
+English HMM348 3 A
+Physics PHY357 3 B
+History HTS356 3 A
+Mathematcis MTH345 4 A
+.
+.
+.
+SamarFatimaRashid 890438 Y 5
+Mathematics MTH345 4 D
+Physics PHY357 3 W
+History HTS356 3 C
+ComputerScience CSC478 3 F
+English HMM348 3 D
+.
+.
+.
+SaimUlHassan 890680 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 A
+History HTS356 3 A
+ComputerScience CSC478 3 A
+.
+.
+.
+TalhaRashid 890555 Y 3
+Mathematics MTH345 4 A
+Physics PHY357 3 A
+ComputerScience CSC478 3 B
+.
+.
+.
+ShahwaizKhalid 890830 N 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 B
+English HMM348 3 B
+.
+.
+.
+ShoaibKhan 890678 N 5
+Mathematics MTH345 4 B
+Physics PHY357 3 C
+History HTS356 3 B
+ComputerScience CSC478 3 B
+English HMM348 3 A
+.
+.
+.
+KainatIshfaq 890742 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 A
+English HMM348 3 A
+.
+.
+.
+AyeshaKhan 890521 Y 3
+Physics PHY357 3 B
+History HTS356 3 A
+English HMM348 3 A
+.
+.
+.
+SameerKhan 890741 Y 5
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+History HTS356 3 B
+ComputerScience CSC478 3 B
+English HMM348 3 A
